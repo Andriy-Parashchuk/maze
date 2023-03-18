@@ -204,3 +204,5 @@ while game:
 
     display.update()
     clock.tick(fps)
+
+print("That`s all")
